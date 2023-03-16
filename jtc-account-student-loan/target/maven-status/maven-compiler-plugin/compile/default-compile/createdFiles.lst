@@ -1,0 +1,15 @@
+com\jtc\jtcaccountstudentloan\mapper\CompanyStudentMapperImpl.class
+com\jtc\jtcaccountstudentloan\company\Entity\CompanyLoan.class
+com\jtc\jtcaccountstudentloan\student\entity\Students.class
+com\jtc\jtcaccountstudentloan\student\repository\StudentRepository.class
+com\jtc\jtcaccountstudentloan\company\Config\UserDetialsCredential.class
+com\jtc\jtcaccountstudentloan\mapper\CompanyStudentMapper.class
+com\jtc\jtcaccountstudentloan\company\exceptionManager\NoSuchLoanDetailsFound.class
+com\jtc\jtcaccountstudentloan\company\Repository\CompanyRepository.class
+com\jtc\jtcaccountstudentloan\company\Config\SecurityConfig.class
+com\jtc\jtcaccountstudentloan\company\DtoCompany\CompanyLoginDto.class
+com\jtc\jtcaccountstudentloan\company\service\CompanyService.class
+com\jtc\jtcaccountstudentloan\student\DtoObject\StudentLoanDto.class
+com\jtc\jtcaccountstudentloan\student\config\StudentConfig.class
+com\jtc\jtcaccountstudentloan\JtcAccountStudentLoanApplication.class
+com\jtc\jtcaccountstudentloan\GeneralConfig\ConfigAllPackages.class
